@@ -1,6 +1,5 @@
 Лабораторная работа #1 Вариант 7
-![главная](https://github.com/user-attachments/assets/646b74d0-c38f-4441-b7bb-eeb0cadf7291)
-![feedback-связь](https://github.com/user-attachments/assets/5e671b6b-d965-478f-9922-faa4e2d36f9e)
-![contacts-контакты](https://github.com/user-attachments/assets/fb7efdfc-3afa-4789-a74a-6f0fc2e80779)
-![about-оНас](https://github.com/user-attachments/assets/61c0909d-a87a-4f30-ab7c-00684593fa79)
-![services-услуги](https://github.com/user-attachments/assets/4577bedf-6a71-438b-943b-1bd6d3c07ce0)
+![image_2025-02-21_20-06-24](https://github.com/user-attachments/assets/44be47c4-d501-4cfc-8630-384133f71390)
+![image_2025-02-21_20-07-03](https://github.com/user-attachments/assets/5871e5a3-a4c4-4148-a1c7-8dbbd99ba054)
+![image_2025-02-21_20-07-20](https://github.com/user-attachments/assets/9fc2176e-a720-4979-8f43-4132b69349d6)
+![image_2025-02-21_20-07-13](https://github.com/user-attachments/assets/d794042c-1a35-49e6-ac9a-95a1eb328b29)
